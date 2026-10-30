@@ -7,7 +7,7 @@ SandwichRush is a cooking game inspired by the games I enjoyed playing as a chil
 ## Demo
 
 <p align="center">
-  <img src="images/demo.GIF" alt="SandwichRush Gameplay Demo" width="400">
+  <img src="images/demo.gif" alt="SandwichRush Gameplay Demo" width="400">
 </p>
 
 ## Materials Needed
